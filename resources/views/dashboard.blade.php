@@ -26,7 +26,7 @@
                   <div class="col-6">
                     <div class="text-right">
                       <h3 class="mt-1">
-                        $<span data-plugin="counterup">58,947</span>
+                        Rs.<span data-plugin="counterup">100000</span>
                       </h3>
                       <p class="text-muted mb-1 text-truncate">
                         Total Revenue
@@ -51,7 +51,7 @@
                   <div class="col-6">
                     <div class="text-right">
                       <h3 class="text-dark mt-1">
-                        <span data-plugin="counterup">127</span>
+                        <span data-plugin="counterup">10</span>
                       </h3>
                       <p class="text-muted mb-1 text-truncate">
                         Today's Sales
@@ -99,7 +99,7 @@
                   <div class="col-6">
                     <div class="text-right">
                       <h3 class="text-dark mt-1">
-                        <span data-plugin="counterup">78.41</span>k
+                        <span data-plugin="counterup">10</span>k
                       </h3>
                       <p class="text-muted mb-1 text-truncate">
                         Today's Visits

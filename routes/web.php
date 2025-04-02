@@ -9,6 +9,7 @@ use App\Http\Controllers\Auth\LoginController;
 Route::get('/', function () {
     return redirect()->route('login');
 });
+
 Auth::routes();
 
 Route::middleware(['auth'])->group(function () {

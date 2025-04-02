@@ -67,7 +67,7 @@
                                             <div class="col-md-8 border p-1 text-center">
                                                 <b>DESCRIPTIONS</b>
                                             </div>
-                                            <div class="col-md-4 border p-1 text-center">
+                                            <div class="col-md-4 border p-1 text-center" >
                                                 <b>TOTAL AMOUNT</b>
                                             </div>
                                         </div>
@@ -77,7 +77,7 @@
                                                 <input class="form-control" name="item_description" />
                                             </div>
                                             <div class="col-md-4 border p-2">
-                                                <input class="form-control" type="text" id="totalAmountInput"
+                                                <input class="form-control" type="text" id="totalAmountInput" name="total_amount"
                                                     oninput="calculateNetAmount()">
                                             </div>
                                         </div>
@@ -121,7 +121,7 @@
                                                     <li>
                                                         <b>Net Amount:</b> ₹ <span type="text"
                                                             id="netAmountDisplay">0</span>
-                                                        <input type="hidden" value="0" name="net_amount" id="netAmount">
+                                                        <input type="text" value="0" name="net_amount" id="netAmount">
                                                     </li>
                                                 </ul>
                                             </div>
